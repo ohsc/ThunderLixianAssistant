@@ -1,0 +1,3 @@
+[submodule "src/ThunderLixianExporter"]
+	path = src/ThunderLixianExporter
+	url = https://github.com/binux/ThunderLixianExporter
