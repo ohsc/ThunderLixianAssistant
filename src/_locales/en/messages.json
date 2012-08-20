@@ -1,0 +1,8 @@
+{
+    "appName" : {
+        "message" : "ThunderLixianAssistant"
+    },
+    "description" : {
+        "message" : "Assistant for ThunderLixian to export download links to aria2/aria2-rpc/wget/IDM/Orbit."  
+    }
+}
