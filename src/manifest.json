@@ -12,7 +12,7 @@
     "default_locale": "en",
 
     "content_scripts" : [{
-        "matches": [ "http://dynamic.cloud.vip.xunlei.com/*", "https://dynamic.cloud.vip.xunlei.com/*" ],
+        "matches": [ "http://dynamic.cloud.vip.xunlei.com/*", "https://dynamic.cloud.vip.xunlei.com/*", "http://lixian.vip.xunlei.com/*" ],
         "js" : ["ThunderLixianExporter/ThunderLixianExporter.user.js"]
     }]
 }
